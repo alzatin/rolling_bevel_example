@@ -20,8 +20,8 @@
     },
     {
       "atomType": "Rectangle",
-      "x": 0.14475524475524476,
-      "y": 0.7337461300309598,
+      "x": 0.19596354166666669,
+      "y": 0.5971428571428571,
       "uniqueID": "id-41112",
       "ioValues": [
         {
@@ -36,8 +36,8 @@
     },
     {
       "atomType": "Rotate",
-      "x": 0.2902097902097902,
-      "y": 0.45201238390092874,
+      "x": 0.2786458333333333,
+      "y": 0.41714285714285715,
       "uniqueID": "id-41116",
       "ioValues": [
         {
@@ -54,15 +54,14 @@
         },
         {
           "name": "z-axis degrees",
-          "ioValue": 2,
-          "currentEquation": "2"
+          "ioValue": 2
         }
       ]
     },
     {
       "atomType": "Move",
-      "x": 0.3951048951048951,
-      "y": 0.26625386996904027,
+      "x": 0.40494791666666663,
+      "y": 0.2942857142857143,
       "uniqueID": "id-41122",
       "ioValues": [
         {
@@ -75,18 +74,18 @@
         },
         {
           "name": "yDist",
-          "ioValue": 9
+          "ioValue": 2
         },
         {
           "name": "zDist",
-          "ioValue": 10
+          "ioValue": 5
         }
       ]
     },
     {
       "atomType": "Loft",
-      "x": 0.5048951048951049,
-      "y": 0.4365325077399381,
+      "x": 0.505859375,
+      "y": 0.4542857142857143,
       "uniqueID": "id-41128",
       "ioValues": [
         {
@@ -104,13 +103,13 @@
         {
           "name": "Shape 1",
           "ioValue": {
-            "geometry": "move-rotate-rectangle-100-50-0-0-2--1-9-0",
+            "geometry": "move-rotate-rectangle-100-50-0-0-2--1-2-0",
             "dimension": "2D",
             "plane": {
               "origin": [
                 0,
                 0,
-                10
+                5
               ],
               "xDir": [
                 1,
@@ -164,8 +163,8 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.634965034965035,
-      "y": 0.3281733746130031,
+      "x": 0.6265734265734266,
+      "y": 0.24767801857585142,
       "uniqueID": "id-41133",
       "ioValues": [
         {
@@ -178,7 +177,7 @@
         },
         {
           "name": "Passes",
-          "ioValue": 7
+          "ioValue": 4
         },
         {
           "name": "Speed",
