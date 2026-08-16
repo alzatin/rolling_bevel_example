@@ -20,26 +20,24 @@
     },
     {
       "atomType": "Rectangle",
-      "x": 0.19596354166666669,
-      "y": 0.5971428571428571,
+      "x": 0.14475524475524476,
+      "y": 0.7337461300309598,
       "uniqueID": "id-41112",
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 100,
-          "currentEquation": "100"
+          "ioValue": 100
         },
         {
           "name": "y length",
-          "ioValue": 50,
-          "currentEquation": "50"
+          "ioValue": 50
         }
       ]
     },
     {
       "atomType": "Rotate",
-      "x": 0.2786458333333333,
-      "y": 0.41714285714285715,
+      "x": 0.2902097902097902,
+      "y": 0.45201238390092874,
       "uniqueID": "id-41116",
       "ioValues": [
         {
@@ -63,8 +61,8 @@
     },
     {
       "atomType": "Move",
-      "x": 0.40494791666666663,
-      "y": 0.2942857142857143,
+      "x": 0.3951048951048951,
+      "y": 0.26625386996904027,
       "uniqueID": "id-41122",
       "ioValues": [
         {
@@ -73,25 +71,22 @@
         },
         {
           "name": "xDist",
-          "ioValue": -1,
-          "currentEquation": "-1"
+          "ioValue": -1
         },
         {
           "name": "yDist",
-          "ioValue": 2,
-          "currentEquation": "2"
+          "ioValue": 9
         },
         {
           "name": "zDist",
-          "ioValue": 5,
-          "currentEquation": "5"
+          "ioValue": 10
         }
       ]
     },
     {
       "atomType": "Loft",
-      "x": 0.505859375,
-      "y": 0.4542857142857143,
+      "x": 0.5048951048951049,
+      "y": 0.4365325077399381,
       "uniqueID": "id-41128",
       "ioValues": [
         {
@@ -109,13 +104,13 @@
         {
           "name": "Shape 1",
           "ioValue": {
-            "geometry": "move-rotate-rectangle-100-50-0-0-2--1-2-0",
+            "geometry": "move-rotate-rectangle-100-50-0-0-2--1-9-0",
             "dimension": "2D",
             "plane": {
               "origin": [
                 0,
                 0,
-                5
+                10
               ],
               "xDir": [
                 1,
@@ -162,15 +157,15 @@
         },
         {
           "name": "Shape 3",
-          "ioValue": null
+          "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
       "closedSelection": 0
     },
     {
       "atomType": "Gcode",
-      "x": 0.6165364583333333,
-      "y": 0.24571428571428572,
+      "x": 0.634965034965035,
+      "y": 0.3281733746130031,
       "uniqueID": "id-41133",
       "ioValues": [
         {
@@ -183,8 +178,7 @@
         },
         {
           "name": "Passes",
-          "ioValue": 4,
-          "currentEquation": "4"
+          "ioValue": 7
         },
         {
           "name": "Speed",
