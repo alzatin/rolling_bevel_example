@@ -60,8 +60,8 @@
     },
     {
       "atomType": "Move",
-      "x": 0.40494791666666663,
-      "y": 0.2942857142857143,
+      "x": 0.4104895104895105,
+      "y": 0.3003095975232198,
       "uniqueID": "id-41122",
       "ioValues": [
         {
@@ -74,7 +74,7 @@
         },
         {
           "name": "yDist",
-          "ioValue": 2
+          "ioValue": 6
         },
         {
           "name": "zDist",
@@ -103,7 +103,7 @@
         {
           "name": "Shape 1",
           "ioValue": {
-            "geometry": "move-rotate-rectangle-100-50-0-0-2--1-2-0",
+            "geometry": "move-rotate-rectangle-100-50-0-0-2--1-6-0",
             "dimension": "2D",
             "plane": {
               "origin": [
@@ -163,8 +163,8 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.6265734265734266,
-      "y": 0.24767801857585142,
+      "x": 0.6377622377622378,
+      "y": 0.2724458204334365,
       "uniqueID": "id-41133",
       "ioValues": [
         {
