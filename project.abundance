@@ -84,8 +84,8 @@
     },
     {
       "atomType": "Loft",
-      "x": 0.505859375,
-      "y": 0.4542857142857143,
+      "x": 0.5017985611510791,
+      "y": 0.5696594427244582,
       "uniqueID": "id-41128",
       "ioValues": [
         {
@@ -102,57 +102,11 @@
         },
         {
           "name": "Shape 1",
-          "ioValue": {
-            "geometry": "move-rotate-rectangle-100-50-0-0-2--1-6-0",
-            "dimension": "2D",
-            "plane": {
-              "origin": [
-                0,
-                0,
-                5
-              ],
-              "xDir": [
-                1,
-                0,
-                0
-              ],
-              "normal": [
-                0,
-                0,
-                1
-              ]
-            },
-            "color": "#aad7f2",
-            "tags": [],
-            "bom": []
-          }
+          "ioValue": null
         },
         {
           "name": "Shape 2",
-          "ioValue": {
-            "geometry": "rectangle-100-50",
-            "dimension": "2D",
-            "plane": {
-              "origin": [
-                0,
-                0,
-                0
-              ],
-              "xDir": [
-                1,
-                0,
-                0
-              ],
-              "normal": [
-                0,
-                0,
-                1
-              ]
-            },
-            "color": "#aad7f2",
-            "tags": [],
-            "bom": []
-          }
+          "ioValue": null
         },
         {
           "name": "Shape 3",
